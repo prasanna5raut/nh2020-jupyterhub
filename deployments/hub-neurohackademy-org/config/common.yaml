@@ -16,7 +16,8 @@ acl.yaml:
     - kels271828    # Kelsey Maass
     - jbpoline      # JB Poline 
     - saravkin      # Sasha Aravkin
-
+    - prasanna5raut # Prasanna Raut
+    
   # Instructors gain read access to the /nh/data folder
   participants:
     - consideRatio-demo # Erik Sundell, for debugging purposes
